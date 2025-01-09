@@ -1,6 +1,25 @@
 import streamlit as st
 
 st.title("내가 만든 앱!")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.markdown("""
+# AI 개발자 댕댕이멍멍
+
+안녕하세요! 저는 **AI 개발자 댕댕이멍멍**입니다.
+
+## 전문 분야
+- **인공지능(AI) 개발**
+- **머신러닝 및 딥러닝**
+- **자연어 처리(NLP)**
+- **컴퓨터 비전**
+- **데이터 분석 및 자동화 시스템 구축**
+
+## 강점
+- 창의적인 AI 솔루션 개발
+- 효율적인 코드 작성 및 최적화
+- 최신 기술 트렌드 적용
+
+## 목표
+AI 기술을 활용하여 세상을 더 나은 곳으로 만들기 위해 끊임없이 배우고 성장합니다.
+
+함께 멋진 프로젝트를 만들어가요! 🚀
+            """)
